@@ -1,1 +1,1 @@
-# [Lesson 5] Collections, Intarface List 
+# [Lesson 5] Collections, Interface List 
