@@ -1,6 +1,6 @@
 # [Lesson 5] Collections, Interface List 
 
-#Homework:
+  Homework:
 
  1.Выполнить операцию поиска и удаления в структурах LinkedList / ArrayList
  
